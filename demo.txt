@@ -1,0 +1,3 @@
+dhor x = 5?
+lekh x?
+lekh 42?
